@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\CLDV 6211 Ice Task 2\\Mango\\Mango_ICE Task 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35A39A7E-559F-47E9-9059-F29A9BB432A8}|Mango_ICE Task 2.csproj|c:\\users\\lab_services_student\\desktop\\cldv 6211 ice task 2\\mango\\mango_ice task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A39A7E-559F-47E9-9059-F29A9BB432A8}|Mango_ICE Task 2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A39A7E-559F-47E9-9059-F29A9BB432A8}|Mango_ICE Task 2.csproj|c:\\users\\lab_services_student\\desktop\\cldv 6211 ice task 2\\mango\\mango_ice task 2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35A39A7E-559F-47E9-9059-F29A9BB432A8}|Mango_ICE Task 2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A39A7E-559F-47E9-9059-F29A9BB432A8}|Mango_ICE Task 2.csproj|c:\\users\\lab_services_student\\desktop\\cldv 6211 ice task 2\\mango\\mango_ice task 2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35A39A7E-559F-47E9-9059-F29A9BB432A8}|Mango_ICE Task 2.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A39A7E-559F-47E9-9059-F29A9BB432A8}|Mango_ICE Task 2.csproj|c:\\users\\lab_services_student\\desktop\\cldv 6211 ice task 2\\mango\\mango_ice task 2\\views\\mango\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35A39A7E-559F-47E9-9059-F29A9BB432A8}|Mango_ICE Task 2.csproj|solutionrelative:views\\mango\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A39A7E-559F-47E9-9059-F29A9BB432A8}|Mango_ICE Task 2.csproj|c:\\users\\lab_services_student\\desktop\\cldv 6211 ice task 2\\mango\\mango_ice task 2\\controllers\\fruitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A39A7E-559F-47E9-9059-F29A9BB432A8}|Mango_ICE Task 2.csproj|solutionrelative:controllers\\fruitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A39A7E-559F-47E9-9059-F29A9BB432A8}|Mango_ICE Task 2.csproj|c:\\users\\lab_services_student\\desktop\\cldv 6211 ice task 2\\mango\\mango_ice task 2\\controllers\\mangocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A39A7E-559F-47E9-9059-F29A9BB432A8}|Mango_ICE Task 2.csproj|solutionrelative:controllers\\mangocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A39A7E-559F-47E9-9059-F29A9BB432A8}|Mango_ICE Task 2.csproj|c:\\users\\lab_services_student\\desktop\\cldv 6211 ice task 2\\mango\\mango_ice task 2\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A39A7E-559F-47E9-9059-F29A9BB432A8}|Mango_ICE Task 2.csproj|solutionrelative:data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV 6211 Ice Task 2\\Mango\\Mango_ICE Task 2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV 6211 Ice Task 2\\Mango\\Mango_ICE Task 2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoAAAAA5P/////5vyEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T19:03:30.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV 6211 Ice Task 2\\Mango\\Mango_ICE Task 2\\Views\\Mango\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Mango\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV 6211 Ice Task 2\\Mango\\Mango_ICE Task 2\\Views\\Mango\\Index.cshtml",
+              "RelativeToolTip": "Views\\Mango\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T19:01:20.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FruitController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV 6211 Ice Task 2\\Mango\\Mango_ICE Task 2\\Controllers\\FruitController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FruitController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV 6211 Ice Task 2\\Mango\\Mango_ICE Task 2\\Controllers\\FruitController.cs",
+              "RelativeToolTip": "Controllers\\FruitController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:33:15.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MangoController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV 6211 Ice Task 2\\Mango\\Mango_ICE Task 2\\Controllers\\MangoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MangoController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV 6211 Ice Task 2\\Mango\\Mango_ICE Task 2\\Controllers\\MangoController.cs",
+              "RelativeToolTip": "Controllers\\MangoController.cs",
+              "ViewState": "AgIAABEAAABAYmZmZuYrwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:32:32.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV 6211 Ice Task 2\\Mango\\Mango_ICE Task 2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV 6211 Ice Task 2\\Mango\\Mango_ICE Task 2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:27:28.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV 6211 Ice Task 2\\Mango\\Mango_ICE Task 2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV 6211 Ice Task 2\\Mango\\Mango_ICE Task 2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAABgmpmZmZkuwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T16:25:44.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV 6211 Ice Task 2\\Mango\\Mango_ICE Task 2\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV 6211 Ice Task 2\\Mango\\Mango_ICE Task 2\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "Data\\MyDbContext.cs",
+              "ViewState": "AgIAABIAAABwAAAAACA7wBsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:15:50.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
