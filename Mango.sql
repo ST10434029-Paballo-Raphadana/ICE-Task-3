@@ -1,0 +1,19 @@
+
+DROP DATABASE MangoFruitDB
+CREATE DATABASE MangoFruitDB
+USE MangoFruitDB
+
+CREATE TABLE Mango (
+MangoID INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+MangoName VARCHAR (250) NOT NULL,
+);
+
+drop table Fruit
+
+INSERT INTO  Mango 
+VALUES ('Orange Mango');
+
+
+SELECT * FROM Mango
+
+
